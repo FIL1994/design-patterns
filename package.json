@@ -1,0 +1,11 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node builder/index.js"
+  },
+  "author": "Philip Van Raalte",
+  "license": "ISC"
+}
