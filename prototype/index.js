@@ -1,7 +1,6 @@
 class Prototype {
   clone() {
-    const clone = Object.assign({}, this);
-    return clone;
+    return { ...this };
   }
 }
 
