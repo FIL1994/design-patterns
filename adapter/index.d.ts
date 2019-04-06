@@ -11,4 +11,3 @@ declare class Adapter extends Target {
 }
 declare function printRequest(target: Target): void;
 declare function run(): void;
-//# sourceMappingURL=index.d.ts.map
