@@ -24,4 +24,4 @@ const blue = new Blue();
 const cirle = new Circle(blue);
 const triangle = new Triangle(blue);
 console.log(cirle.toString());
-console.log(triangle);
+console.log(triangle.toString());
